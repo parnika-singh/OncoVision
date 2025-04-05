@@ -21,16 +21,16 @@ It features multiple ML classifiers with model comparison, clean visualizations,
 ## 🖼️ Visualizations
 
 ### 🔹 Class Distribution
-![Class Distribution](class_distribution.png)
+<img src="class_distribution.png" width="480"/>
 
 ### 🔹 Correlation Heatmap
-![Correlation Heatmap](correlation_heatmap.png)
+<img src="correlation_heatmap.png" width="500"/>
 
 ### 🔹 Feature Boxplot
-![Boxplot](clump_thickness_boxplot.png)
+<img src="clump_thickness_boxplot.png" width="500"/>
 
 ### 🔹 Model Performance Comparison
-![Model Comparison](model_comparison.png)
+<img src="model_comparison.png" width="530"/>
 
 ---
 
@@ -52,8 +52,8 @@ It features multiple ML classifiers with model comparison, clean visualizations,
 
 You can enter a new sample manually through the console and let the model predict its classification with confidence:
 
-![Screen Shot 1](ss1.jpg)
-![Screen Shot 2](ss2.jpg)
+![Screen Shot 1](ss1.JPG)
+![Screen Shot 2](ss2.JPG)
 
 
 ---
