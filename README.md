@@ -52,6 +52,8 @@ It features multiple ML classifiers with model comparison, clean visualizations,
 
 You can enter a new sample manually through the console and let the model predict its classification with confidence:
 
+![Screen Shot 1](ss1.jpg)
+![Screen Shot 2](ss2.jpg)
 
 
 ---
@@ -67,7 +69,9 @@ You can enter a new sample manually through the console and let the model predic
 
 ## 📁 Dataset Source
 
-> [UCI Machine Learning Repository – Breast Cancer Wisconsin (Original)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Original%29)
+> **Wolberg, William.** *"Breast Cancer Wisconsin (Original)."*  
+> UCI Machine Learning Repository, 1990.  
+> [https://doi.org/10.24432/C5HP4Z](https://doi.org/10.24432/C5HP4Z)
 
 ---
 
